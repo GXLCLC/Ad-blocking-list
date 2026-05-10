@@ -589,3 +589,13 @@
 @@||myip.ipip.net^
 # 网络工具-全球IP地理位置查询API
 @@||ip-api.com^
+# 字节跳动数据埋点日志上报域名，用户行为隐私采集，建议拦截
+||dm.bytedance.com^
+# 百度移动广告日志埋点上报，广告行为统计追踪，可拦截
+||mobads-logs.baidu.com^$important
+# 第三方杂类资源域名，加载广告样式与追踪脚本，可拦截
+@@||css.ahdahda.com^
+!放行 BootCDN 公共静态资源 (新旧域名都放)
+@@||cdn.bootcdn.net^
+@@||cdn.bootcss.com^
+
