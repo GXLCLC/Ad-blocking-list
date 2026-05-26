@@ -220,7 +220,7 @@
 @@||p3.ecombdimg.com^
 @@||p26-item.ecombdimg.com^
 @@||bytedance.com^
-||mssdk.bytedance.com^
+||mssdk.bytedance.com^$important
 !酷狗音乐
 ||nbcollect.kugou.com^
 ||kglink.cn^
@@ -654,7 +654,6 @@
 ||obus-cn.dc.heytapmobi.com^$important
 ! 欢太CPC广告素材域名 强制拦截
 ||activity-cpc.heytapimage.com^$important
-@@||mcs.zijieapi.com^$important
 ! 抖音直播FLV拉流（必须放行）
 @@||pull-flv-f1.douyincdn.com^
 @@||pull-flv-l1.douyincdn.com^
