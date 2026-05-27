@@ -663,3 +663,13 @@
 ||mum.alibabachengdun.net^
 ! 放行抖音网页版直播/拦截部分直播看不了
 @@||unpkg.byted-static.com^$important
+! 拦截菜鸟日志域名
+||cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com^$important 
+! 拦截字节日志/埋点/设备注册/追踪上报
+||log.snssdk.com^
+! 淘宝设备标识/用户追踪API
+||audid-api.taobao.com^
+! 字节跳动数据营销/行为埋点
+||dm.bytedance.com^
+! 快手广告（北京达佳互联科技有限公司）
+||adukwai.com^
