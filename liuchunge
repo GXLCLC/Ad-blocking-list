@@ -673,8 +673,7 @@
 ||dm.bytedance.com^
 ! 快手广告（北京达佳互联科技有限公司）
 ||adukwai.com^
-! 字节跳动 DataMind 数据遥测/AI检索
-||dm.bytedance.com^
+!ping0 广告
 ||cdn.ping0.cc^
 ! 抖音直播广告
 ||webcast5-open-lq.douyin.com^
@@ -687,9 +686,53 @@
 ||papi.tencentmusic.com^
 ! 太合音乐TMM广告/统计（可安全拦截）
 ||kgwns.tomoremusic.com^
-! 抖音网页版备用节点（含核心资源+轻量上报）——建议放行
-||www-hj.douyin.com^
 ! 抖音直播开放API（普通用户可拦）
 ||webcast-open.douyin.com^
 ! QQ互联-第三方登录核心接口 —— 必须放行
 @@||cgi.connect.qq.com^$important
+! 百度静态资源CDN（样式/图片/脚本）
+@@||staticsns.cdn.bcebos.com^$important
+@@||staticplat.cdn.bcebos.com^$important 
+! 字节跳动 DMP广告数据上报（可拦截）
+||dm.bytedance.com^$important 
+! 抖音直播开放接口（普通用户可拦截）
+||webcast-open.douyin.com^$important 
+! B站开屏旋转摇一摇广告拦截
+||hw-edge-v2.solseed.cn^
+! uni-app官方示例演示站 
+@@||hellouniapp.dcloud.net.cn^$important
+! 阿里云验证码放行
+@@||arms-retcode.aliyuncs.com^$important
+! Google字体静态资源CDN，拦截会网页字体缺失排版错乱
+@@||fonts.gstatic.com^
+! 网易易盾验证码静态资源CDN(放行)
+@@||cstaticdun1.126.net^$important
+@@||cstaticdun.126.net^$important
+! 蓝奏云下载资源CDN
+@@||c1021.lanosso.com^
+! 深圳梦享网络统计埋点上报
+||log-sdk.clickwifi.net^
+! 阿里云验证码静态资源CDN
+@@||static-captcha.aliyuncs.com^$important
+! 体适能校园体测APP数据上报，采集学生体测、设备、登录行为数据
+! 如需正常查体测成绩：放行；只想屏蔽统计：拦截
+@@||h.tsnkj.com^
+!京东移动端推广/联盟广告、活动落地域名，京东官方备案域名
+||ex.m.jd.com^
+||ccflbs.m.jd.com^
+||ccfjma.m.jd.com^
+!腾讯PCDN广告域名
+||apd-*.teg.tencent-cloud.net^$important
+||*-pcdnwxstat.teg.tencent-cloud.net^$important
+!百度网盘/百度系PCDN节点调度+上行偷跑域名，非核心下载必需，可拦截
+||*.bcsp2p.baidu.com^$important
+! 第三方日志/广告统计上报域名
+||cl2009.com^
+! 字节跳动/火山引擎 边缘网关（放行）
+@@||vc-gate-edge.ndcpp.com^
+! 百度广告监测/转化追踪（可拦截）
+||ada.baidu.com^$important
+! 百度广告/推荐图片+轻量打点（可拦截）
+||luimg.baidu.com^$important
+! 百度BES广告+移动统计埋点（可拦截）
+||bes-mtj.baidu.com^$important
