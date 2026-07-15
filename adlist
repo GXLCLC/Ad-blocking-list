@@ -798,3 +798,13 @@
 ||tnc0-alisc1.zijieapi.com^
 ! OPPO欢太系统全域用户行为追踪埋点，阻断广告画像采集
 ||mdp-usertrace-cn.heytapmobi.com^$important
+! GitHub个人静态站点，多用于脚本/规则文档，按需拦截
+||frankgogoland.github.io^
+! 字节抖音视界广告短链接追踪域名，拦截广告跳转与点击采集
+||99uri.com^
+! 北京空山信息技术广告追踪随机子域名广告技术后台域名
+||xionguamaqui.com^
+! 字节巨量引擎穿山甲广告系统埋点上报域名，屏蔽第三方APP广告追踪与弹窗
+||os.oceancloudapi.com^
+! OPPO欢太用户中心行为追踪域名，采集广告点击行为推送精准推广
+||uc-track-gl.heytapmobi.com^$important
