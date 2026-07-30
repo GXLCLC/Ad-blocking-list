@@ -815,3 +815,24 @@
 ! QQ音乐PCDN打洞调度，P2P上行上传，不影响正常听歌
 ||musicstun.p2p.qq.com^
 ||*.p2ptun.qq.com^
+! 腾讯广告
+||tfogc.com^
+||*.rdt.cfogc.com^
+! 腾讯地图客户端配置拉取节点，拦截造成地图个性化配置、图层加载异常
+@@||cc.map.qq.com^
+! 腾讯地图POI图标、商家封面、界面图片CDN，拦截地点图标、商家图片空白
+@@||5gimg.map.qq.com^
+! 腾讯多媒体实验室网络质量探测节点，拦截会影响音视频线路优选
+@@||tmfmazuhttp-wangka.m.qq.com^
+@@||tmfmazu-wangka.m.qq.com^
+! 腾讯地图静态资源、图标、POI图标CDN，拦截会缺失地图图标、点位标记
+@@||*.map.gtimg.com^
+! 中国移动和通行证配置拉取接口，拦截会导致移动号码一键登录异常
+@@||config2.cmpassport.com^
+! aedns.weixin.qq.com 微信HTTPDNS智能解析调度，放行避免腾讯地图导航、微信小程序网络异常
+@@||aedns.weixin.qq.com^$important
+! cdnjs.cloudflare.com 全球开源前端库公共CDN，网页静态资源分发，强烈建议放行
+@@||cdnjs.cloudflare.com^
+! 南宁易播信息广告SDK行为埋点上报
+||*.508sys.com^
+
