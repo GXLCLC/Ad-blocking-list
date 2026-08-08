@@ -833,6 +833,20 @@
 @@||aedns.weixin.qq.com^$important
 ! cdnjs.cloudflare.com 全球开源前端库公共CDN，网页静态资源分发，强烈建议放行
 @@||cdnjs.cloudflare.com^
-! 南宁易播信息广告SDK行为埋点上报
-||*.508sys.com^
+! 刺客边风静网站态资源CDN。
+@@||0.ss.508sys.com^
+! 高德地图网络定位（基站/Wi-Fi定位）核心接口
+@@||rgeo-aloc.amap.com^
+! X5浏览器内核模块配置管理服务，控制内核初始化、功能开关
+@@||pms.mb.qq.com^
+! TBS X5内核静态资源、内核安装包分发CDN
+@@||tbstx.imtt.qq.com^
+！拼多多长连接消息推送
+@@||titan‑ws.pinduoduo.com^
+！拼多多核心业务接口，快团团依赖
+@@||api.pinduoduo.com^
+！拼多多H5、快团团小程序核心业务接口
+@@||api.yangkeduo.com^
+！快团团H5与团长后台业务入口
+@@||ktt.yangkeduo.com^
 
