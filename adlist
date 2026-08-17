@@ -850,3 +850,32 @@
 ！快团团H5与团长后台业务入口
 @@||ktt.yangkeduo.com^
 
+！腾讯HTTP‑DNS调度节点
+@@||v.smtcdns.com^
+！欢太商店客户端配置接口
+@@||mdp-appconf-cn.heytapdownload.com^
+！抖音核心业务API网关节点
+@@||api3-normal-c-lf.amemv.com^
+！欢太商店应用安装包下载CDN节点
+@@||jits5.heytapdownload.com^
+！欢太OBUS系统设备网关接口
+@@||obus-cn.dc.heytapmobi.com^$important
+！ColorOS系统长连接网关节点
+@@||conn3.coloros.com^
+@@||conn4.coloros.com^
+！OPPO欢太HTTP‑DNS解析服务
+@@||httpdns.ocloud.oppomobile.com^
+！欢太开放能力网关
+@@||api.open.oppomobile.com^
+！DNSPod DoH公共解析服务端点，加密DNS查询入口
+@@||pdns.dnspod.cn^
+！欢太广告SDK静态配置资源
+||adsfs‑sdkconfig.heytapimage.com^$important
+！北京中广天润文化科技，第三方广告埋点上报
+||tckjfast.com^
+！快手网页风控验证码接口
+@@||api.kuaishouzt.com^
+@@||yoda.kwd.inkuai.com^
+@@||imgx.kwd.inkuai.com^
+！夸克超级汇川貔貅广告SDK配置接口
+||pixiu‑sdk.quark.cn^
