@@ -887,6 +887,6 @@
 ！支付宝广告网关，广告请求下发与转化回调
 ||adgw.alipay.com^
 ！联想产品电子文档资源，帮助手册图片CDN
-||webdoc.lenovo.com.cn^
+@@||webdoc.lenovo.com.cn^
 ！欢太锁屏杂志接口，壁纸与锁屏广告内容下发
 ||i.magazine.heytapmobi.com^
