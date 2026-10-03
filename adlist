@@ -499,9 +499,6 @@
 ||qsb.brcoter.miui.srv^ 
 !放行小米应用商店图片图标、不然图标加载不出来 
 @@||sf0.market.xiaomi.com^
-!拦截EasyTiers
-||stun-heyuan-v6.easytier.cn^
-||stun-v6.easytier.cn^
 ！拦截腾讯隐私广告、短链跳转
 ||cmyd-10-126.getui.com^
 ||ads.privacy.qq.com^$important
