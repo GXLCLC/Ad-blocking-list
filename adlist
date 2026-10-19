@@ -928,3 +928,20 @@
 ||shyihuoe.cn^
 ！！！视频号直播第三方测试流CDN，用于视频号直播播放
 @@||voipfinderliveplaythirdtest.wxqcloud.qq.com^
+@@||nlog.daxuesoutijiang.com^$important
+! 广告 SDK 内部接口，广告归因、设备反作弊
+||inner.hzzfcm.com^
+!行为数据上报，用户埋点统计，屏蔽广告
+||report.zhidianmijin.top^
+!广告SSP平台接口，广告流量调度，屏蔽广告
+||sspapi.qingxuntech.cn^
+!卧龙DSP广告投放接口，广告竞价请求，屏蔽广告
+||wolong-dsp.sm.cn^
+!广告素材图片资源，广告图片加载，屏蔽广告
+||img.hbweiruikeji.cn^
+||volcanomob.com^
+||ad.wumeifengshang.cn^
+||fshmob.cn^
+||shunchangzhixing.com^
+||ad.thbcgz.cn^
+||yuanweikj.cn^
