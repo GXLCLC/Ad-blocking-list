@@ -16,7 +16,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt
 https://ghproxy.net/https://raw.githubusercontent.com/GXLCLC/Ad-blocking-list/refs/heads/main/adlist
 ```
 
-# 如图所示
+# 如图所示(images/1.png)
 
 
 ![展示图片](images/1.png)
