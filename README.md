@@ -3,7 +3,7 @@
 本人整理的清单加上海哥的清单和anti-AD命中率最高列表，拦截效果很不错，既不一刀切又放行了误拦截重要的静态资源、图片cdn域名等
 相关的清单链接如下：
 
-<div style="border:3px soild black;padding:14px;">
+<div style="border:3px soild red;padding:14px">
   
 1、[anti-ad](https://anti-ad.net/adguard.txt)
 ```
