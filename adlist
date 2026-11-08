@@ -959,3 +959,36 @@
 ||amdc-thirdparty.alipay.com^
 ||vod-yk.alipayobjects.com^
 ||vod-yk-f.alipayobjects.com^
+！欢太资讯新闻内容、信息流推送资源域名
+||news.heytapdownload.com^
+！谷歌国内静态资源CDN，字体、js、图标资源
+@@||www.gstatic.cn^$important
+！淘宝联盟淘客推广短链、佣金追踪跳转域名
+||s.click.taobao.com^
+||s.click.tmall.com^
+! 阿里/友盟系数据采集埋点节点
+||2kye5u.tdum.alibaba.com^
+! 支付宝数据上报/埋点监控网关边缘节点
+||datagw-edge.alipay.com^
+！广告投放上报、转化统计平台，归属北京中博科远科技有限公司
+||ndcjl.com^
+！广告素材、流量分发域名，归属北京众通人力资源有限公司
+||yyzqta.com^
+！快手磁力引擎广告拉取、广告配置接口
+||kste.ksapisrv.com^
+！广告投放、曝光归因统计平台
+||wsukwai.com^
+！支付宝开放平台文档静态资源CDN
+||mdn.alipayobjects.com^
+！支付宝小程序 PTN 链路静态资源 CDN
+||mdn-ptn-bs.alipayobjects.com^
+！支付宝开放平台 JS 脚本静态 CDN
+||mdn-js.alipayobjects.com^
+！贵州玖外璧科技雾楚云主域名，边缘云节点
+||wuchucloud.cn^
+！掌阅IAA广告API接口，广告拉取、广告回调上报
+||iaa-api.zhangyue.com^
+！阿里内部UPaaS应用平台内网服务，阿里内部PaaS接口
+||upaas-internal.alibaba-inc.com^
+!联想官网核心主要内容
+@@||mactivity.lenovo.com.cn^
