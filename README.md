@@ -1,6 +1,7 @@
 
-# 本人整理的拦截规则和放行规则用于AdGuardHome的adblock格式
-本人整理的清单加上海哥的清单和anti-AD命中率最高列表，拦截效果很不错，既不一刀切又放行了误拦截重要的静态资源、图片cdn域名等
+***本人整理的拦截规则和放行规则用于AdGuardHome的清单，该清单加上海哥的清单和anti-AD命中率最高列表，拦截效果很不错，既不一刀切又放行了误拦截重的要静态资源、图片cdn域名等***
+
+
 ## 相关的清单链接如下：
 
   
@@ -17,7 +18,7 @@
 >https://ghproxy.net/https://raw.githubusercontent.com/GXLCLC/Ad-blocking-list/refs/heads/main/adlist
 >```
 
-### 如图所示
+## 如图所示
 ---
 图一
 ![图一](display1.png)
