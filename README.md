@@ -20,5 +20,5 @@ https://ghproxy.net/https://raw.githubusercontent.com/GXLCLC/Ad-blocking-list/re
 
 
 ![展示图片](display1.png)
-![t](display2.png)
+![图二](display2.png)
 
