@@ -7,7 +7,7 @@
   
 >1、[anti-ad](https://anti-ad.net/adguard.txt)
 >```
->https://anti-ad.net/adguard.txt<
+>https://anti-ad.net/adguard.txt
 >```
 >2、[海哥的清单](https://ghproxy.net/https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt) 
 >```
