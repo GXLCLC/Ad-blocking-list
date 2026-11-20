@@ -992,3 +992,15 @@
 ||upaas-internal.alibaba-inc.com^
 !联想官网核心主要内容
 @@||mactivity.lenovo.com.cn^
+！小度RTC ICE STUN NAT打洞服务
+||ice-stunserver.xdrtc^
+!支付宝广告
+||amdc.alipay.com.cn^
+||mgw.alipay.com^
+！！！无ICP备案，站点用途未知
+||jishuzhan.net^
+！！！淘宝移动端Mtop核心API网关接口
+||acs.m.taobao.com^
+||log.mmstat.com^$important
+！咪咕PLUS会员增值业务接口
+@@||plus.migu.cn^
