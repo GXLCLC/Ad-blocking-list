@@ -1004,3 +1004,10 @@
 ||log.mmstat.com^$important
 ！咪咕PLUS会员增值业务接口
 @@||plus.migu.cn^
+！Google FCM消息推送服务
+@@||mtalk.google.com^
+！Google公共STUN服务器，WebRTC音视频NAT打洞
+@@||stun.l.google.com^
+！！！Google Cloud Storage 对象存储，文件资源存取
+@@||storage.googleapis.com^
+@@||events.mapbox.com^$important
