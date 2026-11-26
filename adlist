@@ -824,8 +824,8 @@
 @@||*.map.gtimg.com^
 ! 中国移动和通行证配置拉取接口，拦截会导致移动号码一键登录异常
 @@||config2.cmpassport.com^
-! aedns.weixin.qq.com 微信HTTPDNS智能解析调度，放行避免腾讯地图导航、微信小程序网络异常
-@@||aedns.weixin.qq.com^$important
+!微信HTTPDNS智能解析调度
+|aedns.weixin.qq.com^$important
 ! cdnjs.cloudflare.com 全球开源前端库公共CDN，网页静态资源分发，强烈建议放行
 @@||cdnjs.cloudflare.com^
 ! 刺客边风静网站态资源CDN。
